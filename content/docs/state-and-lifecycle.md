@@ -377,7 +377,7 @@ this.setState(function(state, props) {
 
 Ketika Anda memanggil `setState()`, React mengabungkan obyek yang Anda siapkan ke _state_ saat ini.
 
-Sebagai contoh, _state_ Anda mungkin menganduk beberapa variabel independen:
+Sebagai contoh, _state_ Anda mungkin mengandung beberapa variabel independen:
 
 ```js{4,5}
   constructor(props) {
